@@ -1,0 +1,33 @@
+<!--pages/result/result.wxml-->
+<view class="layout0">
+  <text class="text0" style="color:rgb(229, 52, 34);font-weight:bold;">{{name}}属于有害垃圾</text>
+  <view class="layout1">
+    <view class="layout10">
+      <image src="http://img02.sogoucdn.com/app/a/100520091/20190615142428" class="img-in"></image>
+      <view class="layout100">
+        <text class="text10" style="font-weight:bold">有害垃圾是指：</text>
+        <text class="text10">对人体健康或者自然环</text>
+        <text class="text10">境造成直接或潜在危害</text>
+        <text class="text10">的废弃物</text>
+      </view>
+    </view>
+
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">有害垃圾主要包括</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(229, 52, 34);text-align:left;">废电池、油漆桶、荧光灯管、废药品及</text>
+      <text style="font-size:30rpx;color:rgb(229, 52, 34);text-align:left;">其包装物等</text>
+    </view>
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">有害垃圾投放要求</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(229, 52, 34);text-align:left;"><text style="font-weight:bold;">*</text>  投放时请注意轻放</text>
+      <text style="font-size:30rpx;color:rgb(229, 52, 34);text-align:left;"><text style="font-weight:bold;">*</text>  易破损的请连带包装或包裹后轻放</text>
+      <text style="font-size:30rpx;color:rgb(229, 52, 34);text-align:left;"><text style="font-weight:bold;">*</text>  如易挥发，请密封后投放</text>
+    </view>
+    <text>\n</text>
+  </view>
+</view>
+

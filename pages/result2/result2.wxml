@@ -1,0 +1,34 @@
+<!--pages/result/result.wxml-->
+<view class="layout0">
+  <text class="text0" style="color:rgb(44, 43, 41);font-weight:bold;">{{name}}属于干垃圾</text>
+  <view class="layout1">
+    <view class="layout10">
+      <image src="http://img02.sogoucdn.com/app/a/100520091/20190615142324" class="img-in"></image>
+      <view class="layout100">
+        <text class="text10" style="font-weight:bold">干垃圾是指：</text>
+        <text class="text10">除有害垃圾、可回收</text>
+        <text class="text10">物、湿垃圾以外的其他</text>
+        <text class="text10">生活废弃物</text>
+      </view>
+    </view>
+
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">干垃圾主要包括</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left;">餐盒、餐巾纸、湿纸巾、卫生间用纸、</text>
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left">塑料袋、 食品包装袋、污染严重的</text>
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left;">纸、烟蒂、纸尿裤、 一次性杯子、大骨头、贝壳、花盆、陶瓷等</text>
+    </view>
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">干垃圾投放要求</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left;"><text style="font-weight:bold;">*</text>  尽量沥干水分</text>
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left;"><text style="font-weight:bold;">*</text>  难以辨识类别的生活垃圾投入干垃</text>
+      <text style="font-size:30rpx;color:rgb(44, 43, 41);text-align:left;margin:0 0 0 24rpx">圾容器内</text>
+    </view>
+    <text>\n</text>
+  </view>
+</view>
+

@@ -1,0 +1,38 @@
+<!--pages/result/result.wxml-->
+<view class="layout0">
+  <text class="text0" style="color:#000066;font-weight:bold;">{{name}}属于可回收物</text>
+  <view class="layout1">
+    <view class="layout10">
+      <image src="https://img03.sogoucdn.com/app/a/100520091/20190615142346" class="img-in"></image>
+      <view class="layout100">
+        <text class="text10" style="font-weight:bold">可回收物是指：</text>
+        <text class="text10">适宜回收利用和资源化</text>
+        <text class="text10">利用的，如：玻、金、</text>
+        <text class="text10">塑、纸、衣</text>
+      </view>
+    </view>
+
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">可回收物主要包括</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:#000066;text-align:left;">酱油瓶、玻璃杯、平板玻璃、易拉罐、</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left">饮料瓶、洗发水瓶、塑料玩具、书</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;">本、报纸、广告单、纸板箱、衣服、</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;">床上用品等</text>
+    </view>
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">可回收物投放要求</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:#000066;text-align:left;"><text style="font-weight:bold;">*</text>  轻投轻放</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;"><text style="font-weight:bold;">*</text>  清洁干燥，避免污染</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;"><text style="font-weight:bold;">*</text>  废纸尽量平整</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;"><text style="font-weight:bold;">*</text>  立体包装物请清空内容物，清洁后</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;margin:0 0 0 24rpx">压扁投放</text>
+      <text style="font-size:30rpx;color:#000066;text-align:left;"><text style="font-weight:bold;">*</text>  有尖锐边角的，应包裹后投放</text>
+    </view>
+    <text>\n</text>
+  </view>
+</view>
+

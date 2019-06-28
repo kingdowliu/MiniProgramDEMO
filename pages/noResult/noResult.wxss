@@ -1,0 +1,22 @@
+.layout{
+  display:flex;
+  flex-direction:column;
+}
+
+.layout00{
+  display:flex;
+  flex-direction:row;
+}
+
+.layout1{
+  display:flex;
+  flex-direction:column;
+  margin:30rpx 30rpx 0 40rpx;
+  text-align:center;
+}
+
+.layout2{
+  display:flex;
+  flex-direction:column;
+  margin:30rpx 50rpx 10rpx 90rpx;
+}

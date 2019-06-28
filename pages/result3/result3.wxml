@@ -1,0 +1,36 @@
+<!--pages/result/result.wxml-->
+<view class="layout0">
+  <text class="text0" style="color:rgb(100, 64, 50);font-weight:bold;">{{name}}属于湿垃圾</text>
+  <view class="layout1">
+    <view class="layout10">
+      <image src="http://img01.sogoucdn.com/app/a/100520091/20190615142410" class="img-in"></image>
+      <view class="layout100">
+        <text class="text10" style="font-weight:bold">湿垃圾是指：</text>
+        <text class="text10">日常生活垃圾产生的容</text>
+        <text class="text10">易腐烂的生物质废弃物</text>
+      </view>
+    </view>
+
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">湿垃圾主要包括</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;">剩菜剩饭、瓜皮果核、花卉绿植、过期</text>
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left">食品等</text>
+    </view>
+    <view class="layout12 border">
+        <text style="color:white;text-align:center;margin:30rpx 0 30rpx 0;font-size:30rpx;">湿垃圾投放要求</text>
+    </view>
+    <view style="margin:30rpx 30rpx 0 70rpx;display:flex;flex-direction:column;">
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;"><text style="font-weight:bold;">*</text>  纯流质的食物垃圾，如牛奶等，应
+</text>
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;margin:0 0 0 24rpx">直接倒进下水口</text>
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;"><text style="font-weight:bold;">*</text>  有包装物的湿垃圾应将包装物去除</text>
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;"><text style="font-weight:bold;">*</text>  后分类投放，包装物请投放到对应</text>
+      <text style="font-size:30rpx;color:rgb(100, 64, 50);text-align:left;"><text style="font-weight:bold;">*</text>  的可回收物或干垃圾容器
+</text>
+    </view>
+    <text>\n</text>
+  </view>
+</view>
+

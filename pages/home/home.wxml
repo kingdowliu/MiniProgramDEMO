@@ -1,0 +1,12 @@
+<form bindsubmit="doQuery">
+<view class="layout">
+  <image src="/images/logo1.jpg" class="in-image"></image>
+  <view class="round search-form">
+    <text>  </text> 
+    <input placeholder="塑料" value="" type="text" name="inputvalue">塑料</input>
+  </view>
+  <view class="btn">
+    <button type="primary" size="mini" form-type="submit">查询</button>
+  </view>
+</view>
+</form>

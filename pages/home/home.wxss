@@ -1,0 +1,40 @@
+/* Page{
+  background-color:#9191d9;
+} */
+
+.layout{
+  margin:80rpx 0 0 0;
+  display:flex;
+  flex-direction:column;
+  align-items:center;
+}
+
+.layout image{
+  width:400rpx;
+  height:400rpx;
+}
+
+.search-form{
+  margin: 160rpx 0 0 0;
+}
+
+.round{
+  border-radius:1000rpx;
+}
+
+.search-form{
+  background-color: #f5f5f5;
+  line-height:64rpx;
+  height:100rpx;
+  width:300px;
+  font-size:40rpx;
+  color:#666;
+}
+
+.search-form input{
+  margin:23rpx 25rpx 0 25rpx;
+}
+
+.btn{
+  margin: 40rpx 0 0 0;
+}

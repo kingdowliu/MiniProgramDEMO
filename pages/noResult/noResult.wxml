@@ -1,0 +1,33 @@
+<view style="text-align:center;margin:18rpx 0 0 0;color:rgb(229, 52, 34);font-weight:bold;">
+  <text>未查到完全匹配字段\n</text>
+  <text>以下方法为您推荐</text>
+</view>
+<view class="layout">
+  <view class="layout00">
+    <view class="layout1">
+      <image src="http://img01.sogoucdn.com/app/a/100520091/20190615142410" style="width:300rpx;height:300rpx;"></image>
+      <text style="margin:20rpx 0 0 0">猪吃的</text>
+    </view>
+    <view class="layout1">
+      <image src="http://img02.sogoucdn.com/app/a/100520091/20190615142324" style="width:300rpx;height:300rpx;"></image>
+      <text style="margin:20rpx 0 0 0">猪不吃的</text>
+    </view>
+  </view>
+  <view class="layout00">
+    <view class="layout1">
+       <image src="http://img02.sogoucdn.com/app/a/100520091/20190615142428" style="width:300rpx;height:300rpx;"></image>
+      <text style="margin:20rpx 0 0 0">猪吃了会死</text>
+    </view>
+    <view class="layout1">
+       <image src="https://img03.sogoucdn.com/app/a/100520091/20190615142346" style="width:300rpx;height:300rpx;"></image>
+      <text style="margin:20rpx 0 0 0">卖了换猪</text>
+    </view>
+  </view>
+</view>
+<view class="layout2">
+  <text style="font-size:31rpx;margin:0 0 0 70rpx;">鼓励将<text style="color:#000066;font-weight:bold;font-size:34rpx;">可回收物</text>卖入废品回收系统，</text>
+  <text style="font-size:31rpx;">或交投至两网融合服务点，或投放至可回收</text>
+  <text style="font-size:31rpx;">物收集容器；严禁将<text style="color:rgb(229, 52, 34);font-weight:bold;font-size:34rpx;">有害垃圾</text>投放到其他的</text>
+  <text style="font-size:31rpx;">生活垃圾收集容器；日常家庭生活垃圾要做</text>
+  <text style="font-size:31rpx;">到<text style="color:rgb(44, 43, 41);font-weight:bold;font-size:34rpx;">干</text>、<text style="color:rgb(100, 64, 50);font-weight:bold;font-size:34rpx;">湿</text>垃圾两分开。</text>
+</view>
